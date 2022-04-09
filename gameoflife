@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=_tgsAaJoOlU&t=64s idea
 import pygame
 from random import randint
 from copy import deepcopy
